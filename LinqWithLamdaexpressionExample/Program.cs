@@ -38,3 +38,14 @@ namespace LinqWithLamdaexpressionExample
         }
     }
 }
+/*output:
+Lamda expression  Query output
+3
+4
+5
+6
+Normal Linq Query output
+3
+4
+5
+6
